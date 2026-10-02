@@ -1,2 +1,2 @@
-# graphql-api-imt
-TP noté pour la prise en main de GraphQL.
+# UE-AD-A1-MIXTE
+
